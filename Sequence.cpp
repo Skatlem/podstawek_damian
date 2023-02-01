@@ -27,6 +27,6 @@ float Sequence::oblicz(){
     return x+y;
 }
 
-float Sequence::oblicz2(){
+float Sequence::oblicz1(){
     return x-y;
 }
